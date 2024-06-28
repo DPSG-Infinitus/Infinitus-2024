@@ -99,15 +99,15 @@ body {
     font-size: 24px;
     text-align: center;
   }
-
-   section{
-    margin-top: 8%;
-  }
 }
 
 @media only screen and (min-width: 912px) {
   .testingchalrahi {
     font-size: 36px;
+  }
+
+  section{
+    margin-top: 5%;
   }
 }
 
